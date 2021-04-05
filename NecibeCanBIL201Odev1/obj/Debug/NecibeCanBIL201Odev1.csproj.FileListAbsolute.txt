@@ -1,0 +1,10 @@
+C:\Users\Fatih\source\repos\NecibeCanBIL201Odev1\NecibeCanBIL201Odev1\bin\Debug\NecibeCanBIL201Odev1.exe.config
+C:\Users\Fatih\source\repos\NecibeCanBIL201Odev1\NecibeCanBIL201Odev1\bin\Debug\NecibeCanBIL201Odev1.exe
+C:\Users\Fatih\source\repos\NecibeCanBIL201Odev1\NecibeCanBIL201Odev1\bin\Debug\NecibeCanBIL201Odev1.pdb
+C:\Users\Fatih\source\repos\NecibeCanBIL201Odev1\NecibeCanBIL201Odev1\obj\Debug\NecibeCanBIL201Odev1.csprojAssemblyReference.cache
+C:\Users\Fatih\source\repos\NecibeCanBIL201Odev1\NecibeCanBIL201Odev1\obj\Debug\NecibeCanBIL201Odev1.Form1.resources
+C:\Users\Fatih\source\repos\NecibeCanBIL201Odev1\NecibeCanBIL201Odev1\obj\Debug\NecibeCanBIL201Odev1.Properties.Resources.resources
+C:\Users\Fatih\source\repos\NecibeCanBIL201Odev1\NecibeCanBIL201Odev1\obj\Debug\NecibeCanBIL201Odev1.csproj.GenerateResource.cache
+C:\Users\Fatih\source\repos\NecibeCanBIL201Odev1\NecibeCanBIL201Odev1\obj\Debug\NecibeCanBIL201Odev1.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\source\repos\NecibeCanBIL201Odev1\NecibeCanBIL201Odev1\obj\Debug\NecibeCanBIL201Odev1.exe
+C:\Users\Fatih\source\repos\NecibeCanBIL201Odev1\NecibeCanBIL201Odev1\obj\Debug\NecibeCanBIL201Odev1.pdb
